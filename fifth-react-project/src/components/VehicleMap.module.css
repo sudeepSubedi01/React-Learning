@@ -1,0 +1,40 @@
+*{
+  list-style-type: none;
+}
+.heading{
+  display: flex;
+  justify-content: center;
+}
+.heading h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1px;
+  color: brown;
+  border-bottom: 1px solid salmon;
+  
+}
+.container{
+  margin-left: 15px;
+  margin-top: 15px;
+  border: 1px solid black;
+  width: 30%;
+  padding-left: 10px;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+}
+
+ul{
+  margin-right: 5px;
+  padding-left: 3px;
+  border-collapse: collapse;
+}
+.inputField{
+  margin-top: 5px;
+}
+.inputField input{
+  width: 94%;
+  height: 20px;
+  border-radius: 5px;
+}

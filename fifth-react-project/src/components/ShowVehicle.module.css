@@ -1,0 +1,24 @@
+.listItems{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+li{
+  font-size: 20px;
+  border: 1px solid red;
+  padding: 1px 8px;
+  border-radius: 5px;
+  line-height: 45px;
+  margin: auto;
+}
+.buyBtn{
+  float: right;
+  padding: 5px;
+  background-color: aqua;
+  border: 1px solid burlywood;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.active{
+  background-color:darkgray;
+}

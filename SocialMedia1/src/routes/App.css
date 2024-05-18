@@ -1,0 +1,37 @@
+.appContainer{
+  display: flex;
+}
+
+.appContent{
+  width: 100%;
+}
+
+
+.sidebar{   /* This class is in SideBar component */
+  min-height: 700px;
+}
+
+.postCard{
+  margin: 20px 50px;
+}
+
+.cardContainer{
+  display: flex;
+}
+
+.hashtag{
+  margin: 0 3px;
+}
+
+.createPostContainer{
+  margin: 20px;
+  padding: 8px;
+  border: 1px solid rgb(224, 224, 224);
+  border-radius: 5px;
+}
+.spinnerContainer{
+  margin: 100px ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

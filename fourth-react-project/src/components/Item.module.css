@@ -1,0 +1,8 @@
+.buyBtn{
+  background-color: skyblue;
+  border: none;
+  border-radius: 5px;
+  float: right;
+  padding: 5px;
+  cursor: pointer;
+}
